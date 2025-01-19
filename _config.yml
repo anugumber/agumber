@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Nimit Rana"
+title                    : "Anupam Gumber"
 title_separator          : "-"
-name                     : &name "Nimit Rana"
+name                     : &name "Anupam Gumber"
 description              : &description "Lecturer at University of York"
-url                      : https://rananimit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://agumber.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rananimit/rananimit.github.io"
+repository               : "anugumber/agumber.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nimit Rana"
+  name             : "Anupam Gumber"
   avatar           : "profile.jpg" #"nrana.jpg" 
   bio              : "Lecturer at University of York"
   location         : 
