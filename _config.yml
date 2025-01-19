@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Anupam Gumber"
 title_separator          : "-"
 name                     : &name "Anupam Gumber"
-description              : &description "Lecturer at University of York"
+description              : &description "FWF ESPRIT Project Leader"
 url                      : https://agumber.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anugumber/agumber.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Anupam Gumber"
   avatar           : "profile.jpg" #"nrana.jpg" 
-  bio              : "Lecturer at University of York"
+  bio              : "FWF ESPRIT Project Leader"
   location         : 
-  employer         : "University of York"
+  employer         : "University of Vienna"
   pubmed           :
-  googlescholar    : # "https://scholar.google.com/citations?user=EWw0oakAAAAJ"
-  email            : "nimit.rana@york.ac.uk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=zUuE13AAAAAJ&hl=en"
+  email            : "anupam.gumber@univie.ac.at"
+  researchgate     :  "https://www.researchgate.net/profile/Anupam-Gumber"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rananimit"
+  github           : "anugumber"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "nimit-rana"
-  orcid            : "https://orcid.org/0000-0003-1106-6112"
+  linkedin         : # "nimit-rana"
+  orcid            : "https://orcid.org/0000-0001-5146-3134"
   pinterest        :
   soundcloud       :
   stackoverflow    :
